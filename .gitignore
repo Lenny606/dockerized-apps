@@ -34,3 +34,24 @@ wheels/
 .docker/
 docker-compose.override.yml
 .env
+
+#C#
+[Bb]in/
+[Oo]bj/
+**/[Bb]in/
+**/[Oo]bj/
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.publishsettings
+orleans.codegen.cs
+/packages/
+*.nupkg
+# NuGet Symbol Packages
+*.snupkg
